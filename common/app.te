@@ -1,3 +1,4 @@
+type sf_lcd_density_prop;
 # allow application to access cnd domain and socket
 #unix_socket_connect(appdomain, cnd, cnd)
 
